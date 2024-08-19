@@ -17,4 +17,6 @@ This project is a Google Apps Script for sending Google Calendar event notificat
 - A Slack workspace where you can create a Slack app and webhook.
 
 ## Full Guide
-For a detailed step-by-step guide on building a similar app, including screenshots and code explanations, please refer to this article (article coming soon).
+For a detailed step-by-step guide on building a similar app, including screenshots and code explanations, please refer to the article below:
+- [English: Full Guide](https://qiita.com/sendmelocation/items/5a8e10aed69cd3286f34)
+- [日本語：作成手順](https://qiita.com/sendmelocation/items/fcbfd3c55521f522ef8d)
